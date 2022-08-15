@@ -12,6 +12,4 @@ What variable,are neither targets nor features, and should be removed from the i
 EIN and NAME columns 
 
 ### Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
+I tried a variable amount of input and output layers.  I tried various activation functions to increase performance of the model.  The intial test yielded the greatest accuracy reslult. Although I varied the number of nuerons and layers the intial test showed the greatest accuracy.  For enhanced performance, I wold recommemd testing additonal applications for a more targeted result.
